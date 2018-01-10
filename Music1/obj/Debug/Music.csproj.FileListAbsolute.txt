@@ -1,0 +1,24 @@
+C:\Users\BALAJI D U\source\repos\Music1\Music1\bin\Music.dll.config
+C:\Users\BALAJI D U\source\repos\Music1\Music1\bin\Music.dll
+C:\Users\BALAJI D U\source\repos\Music1\Music1\bin\Music.pdb
+C:\Users\BALAJI D U\source\repos\Music1\Music1\bin\AjaxControlToolkit.dll
+C:\Users\BALAJI D U\source\repos\Music1\Music1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BALAJI D U\source\repos\Music1\Music1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BALAJI D U\source\repos\Music1\Music1\obj\Debug\Music.Properties.Resources.resources
+C:\Users\BALAJI D U\source\repos\Music1\Music1\obj\Debug\Music.csproj.GenerateResource.Cache
+C:\Users\BALAJI D U\source\repos\Music1\Music1\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\BALAJI D U\source\repos\Music1\Music1\obj\Debug\Music.dll
+C:\Users\BALAJI D U\source\repos\Music1\Music1\obj\Debug\Music.pdb
+C:\Users\BALAJI D U\source\repos\Music1\Music1\obj\Debug\Music.csprojResolveAssemblyReference.cache
+E:\RNSIT\5th Sem\Music1\Music1\bin\Music.dll.config
+E:\RNSIT\5th Sem\Music1\Music1\bin\Music.dll
+E:\RNSIT\5th Sem\Music1\Music1\bin\Music.pdb
+E:\RNSIT\5th Sem\Music1\Music1\bin\AjaxControlToolkit.dll
+E:\RNSIT\5th Sem\Music1\Music1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RNSIT\5th Sem\Music1\Music1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RNSIT\5th Sem\Music1\Music1\obj\Debug\Music.Properties.Resources.resources
+E:\RNSIT\5th Sem\Music1\Music1\obj\Debug\Music.csproj.GenerateResource.Cache
+E:\RNSIT\5th Sem\Music1\Music1\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\RNSIT\5th Sem\Music1\Music1\obj\Debug\Music.dll
+E:\RNSIT\5th Sem\Music1\Music1\obj\Debug\Music.pdb
+E:\RNSIT\5th Sem\Music1\Music1\obj\Debug\Music.csprojResolveAssemblyReference.cache

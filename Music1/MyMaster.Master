@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MyMaster.Master.cs" Inherits="Music.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            text-align: center;
+        }
+        .newStyle1 {
+            font-family: "Times New Roman", Times, serif;
+        }
+        .newStyle2 {
+            font-family: rahumba;
+        }
+        .newStyle3 {
+            font-family: "rage Italic";
+        }
+        .auto-style6 {
+            width: 90%;
+            height: 26px;
+            text-align: right;
+        }
+        </style>
+    <script type="text/html">
+        windowwindow.onload=window.history.forward(0);
+    </script>
+    <link href="CSS/bootstrap.css" rel="stylesheet" />
+    <link href="CSS/MyStyle.css" rel="stylesheet" />
+</head>
+    <title>Virtual Keyboard</title>
+
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <table class="auto-style1">
+                <tr>
+                    <td colspan="2">
+                        <div>
+                            <h1 class="auto-style3">
+
+                                <asp:Label ID="Label7" runat="server" class="col-sm-offset-0" ForeColor="AliceBlue" Text="Virtual keyboard" Style="text-decoration-color: aquamarine; font-size: 60px; font-family: serif"></asp:Label>
+
+                            </h1>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+
+                    <td class="auto-style6">
+                        <asp:Button ID="Home" class="btn btn-default" Font-Size="Large" runat="server" Text="Home" OnClick="Home_btn_Click" />
+                        <asp:Button ID="About_btn" class="btn btn-default" Font-Size="Large" runat="server" Text="About" OnClick="About_btn_Click" />
+                        <asp:Button ID="Login_Sign" class="btn btn-default" Font-Size="Large" runat="server" Text="SignUp / SignIn" Style="margin-right: 1%" OnClick="Login_Sign_Click" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                        &nbsp;</td>
+                </tr>
+                
+                <tr>
+                    
+                        <td colspan="2" class="text-right" style="margin-bottom:4%">
+                            <div class="text-center col-sm-offset-5">
+                                <asp:Label ID="Info" runat="server" font-color="white" class="control-label" Style="text-decoration-color: white; margin-bottom: 10%;" Font-Size="X-Large" ForeColor="#CCCCCC">
+Developed By:<br />
+                        <strong>Balaji D U </strong>and
+                        <strong>Ashwini D</strong>
+                                </asp:Label>
+                            </div>
+                    
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

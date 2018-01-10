@@ -1,0 +1,47 @@
+﻿body {
+    tab-size: inherit;
+    opacity: .8;
+    background-image: url('../Images/BGImage9.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: unset;
+    height:inherit;
+    background-size: cover;
+}
+bgcol {
+    background-color: darkblue;
+    background: url('../Images/BGImage7.jpg')no-repeat 0px 0px;
+    background-size: cover;
+    padding: 2em 2em;
+    text-align: center;
+}
+topmar {
+    top:50%;
+}
+form1 {
+    color: #CCFFCC;
+    text-transform: uppercase;
+    align-content: center;
+}
+.textbox {
+    color: white;
+    font-weight: 300;
+    font-size: 1.5em;
+    line-height: 1.22em;
+    margin-bottom: 2;
+    background-color: transparent;
+}
+form .text-field{
+    border:1pt solid #a6a6a6;
+}
+
+.login_submit {
+    background-color: #39b3d7;
+    border-color: #348fd2;
+    /* text-shadow: 1px 1px 0 #238ed5;*/
+}
+
+    .login_submit:hover, .login_submit:focus {
+        background-color: #45abcd;
+        border-color: #347abe;
+    }
